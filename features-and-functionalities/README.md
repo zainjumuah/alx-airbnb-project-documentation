@@ -251,7 +251,7 @@ The backend must provide robust, scalable, and secure services that enable user 
 
 ---
 
-## **12. ER Diagram Logic for Visual Generation**
+## **12. ER Diagram Logic for Visual Representation**
 
 ```
 [User]──<owns>──[Property]──<is booked via>──[Booking]──<has>──[Payment]
@@ -268,3 +268,10 @@ The backend must provide robust, scalable, and secure services that enable user 
 ```
 
 ---
+
+
+
+## **13. Visual Representation of the ER Diagram**
+<img width="1408" height="736" alt="Gemini_Generated_Image_v75j3bv75j3bv75j" src="https://github.com/user-attachments/assets/e2e0da5a-2172-4da7-b2d2-66c2de48154d" />
+
+
