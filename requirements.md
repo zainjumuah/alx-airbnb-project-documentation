@@ -237,7 +237,7 @@ It handles availability checks, booking creation, payment linkage, and cancellat
 * **Availability Check:** Reject booking if property is already booked for selected dates.
 * **Price Calculation:** `total_price = pricepernight × number_of_nights`.
 * **Role Restriction:** Only guests can create bookings.
-* **Cancellation:** Allowed only if booking is not yet completed.
+* **Cancellation:** Allowed only if the booking is not yet completed.
 
 ---
 
